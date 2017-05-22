@@ -1,0 +1,1 @@
+execute "$ scrapy crawl ptt -o {$filename}" to crawl the page using crawl.py and store the content
